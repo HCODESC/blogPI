@@ -153,3 +153,7 @@
 /Users/hcodes/RiderProjects/BloggingPlatformApi/BloggingPlatformApi/obj/Debug/net9.0/BloggingPlatformApi.pdb
 /Users/hcodes/RiderProjects/BloggingPlatformApi/BloggingPlatformApi/obj/Debug/net9.0/BloggingPlatformApi.genruntimeconfig.cache
 /Users/hcodes/RiderProjects/BloggingPlatformApi/BloggingPlatformApi/obj/Debug/net9.0/ref/BloggingPlatformApi.dll
+/Users/hcodes/RiderProjects/BloggingPlatformApi/BloggingPlatformApi/obj/Debug/net9.0/BloggingPlatformApi.sourcelink.json
+/Users/hcodes/RiderProjects/BloggingPlatformApi/BloggingPlatformApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/hcodes/RiderProjects/BloggingPlatformApi/BloggingPlatformApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/hcodes/RiderProjects/BloggingPlatformApi/BloggingPlatformApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
